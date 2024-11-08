@@ -1,21 +1,24 @@
-Link Portfolio
+# Link Portfolio
 This project is a link portfolio created using HTML, CSS, and JavaScript. The goal is to display a collection of useful links in a stylish and interactive manner. It is a simple project, ideal for showcasing your favorite links, personal websites, or online portfolio.
 
-Features
+# Features
 Link Display: Easily add, view, and access a list of custom links.
 Light and Dark Modes: Users can toggle between light and dark modes for an enhanced viewing experience.
 Responsive Design: The layout adapts to various screen sizes, ensuring the site is accessible on both mobile devices and desktops.
-Technologies Used
+
+# Technologies Used
+
 HTML: Structure of the website and content organization.
 CSS: Styling and layout of the website.
 JavaScript: Interactive functionality, such as toggling between light and dark modes.
-How to Use
-Clone the Repository:
 
-To get started, clone the repository to your local machine:
+
+# Clone the Repository:
 
 git clone https://github.com/jojoscc/LinkPort
-Open the Project:
+
+
+# Open the Project:
 
 Navigate to the project folder and open the index.html file in your browser to view the portfolio.
 
