@@ -26,6 +26,7 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 body * {
@@ -153,4 +154,14 @@ ul li a:hover {
 footer {
   padding: 24px 0;
   text-align: center;
+}
+
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./estilosproj/bg-desktop.jpg);
+  }
+
+  .light {
+    --bg-url: url(./estilosproj/bg-desktop-light.jpg);
+  }
 }
